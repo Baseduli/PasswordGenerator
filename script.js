@@ -4,10 +4,10 @@ var specialCharacters = window.confirm("Special Characters?");
 var upperCase = window.confirm("Uppercase letters?");
 var lowerCase = window.confirm("Lowercase letters?");
 
-console.log(passwordLength);
-console.log(specialCharacters);
-console.log(upperCase);
-console.log(lowerCase);
+//console.log(passwordLength);
+//console.log(specialCharacters);
+//console.log(upperCase);
+//console.log(lowerCase);
 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
