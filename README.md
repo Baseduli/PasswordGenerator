@@ -1,7 +1,8 @@
 # PasswordGenerator
 
 This project was created to help generate secure passwords. The passwords are randomly generated and will keep your accounts secure.
-[Screen shot of site](./Assets/Password%20Generator.png)
+[Click here to navigate to site](https://baseduli.github.io/PasswordGenerator/)
+![Screen shot of site](./Assets/Password%20Generator.png)
 
 ## Built with
 The project is created with HTML, CSS, and Javascript
@@ -18,7 +19,7 @@ Pictures of expected behavior
 ![Final result](./Assets/Password%20Generated.png)
 
 ## License
-See the [License](./LICENSE)
+See the license [here](./LICENSE)
 
 ## Ackowledgements
 [MDN website](https://developer.mozilla.org/en-US/)
